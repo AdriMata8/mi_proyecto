@@ -6,3 +6,5 @@ Naranja
 Morado
 Rosa
 Cyan
+Plateado
+
